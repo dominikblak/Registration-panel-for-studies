@@ -1,0 +1,25 @@
+.navbar-brand>img {
+  height: 250%;
+  margin-top: -15px;
+  width: auto;
+}
+html {
+    position: relative;
+    min-height: 100%;
+
+}
+body {
+  padding-top: 50px;
+    margin-bottom: 100px; /* wysokość stopki */
+    
+}
+footer {
+    position: absolute;
+    background-color: #ECECEC;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    
+
+
