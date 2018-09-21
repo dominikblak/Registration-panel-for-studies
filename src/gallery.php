@@ -29,7 +29,7 @@
 
       ?>
       <header>
-
+        <center>
         <div class="" style="margin-top: 70px; margin-bottom: 50px; "  >
 
           <div id="myCarousel" class="carousel slide" data-ride="carousel" >
@@ -43,6 +43,7 @@
             </ol>
 
             <!-- Wrapper for slides -->
+            <
             <div class="carousel-inner">
               <div class="item active">
                 <img src="img/1s.jpg" alt="">
@@ -66,6 +67,7 @@
 
             </div>
             <!-- Left and right controls -->
+            
             <a class="left carousel-control" href="#myCarousel" data-slide="prev">
               <span class="glyphicon glyphicon-chevron-left"></span>
               <span class="sr-only">Previous</span>
@@ -74,9 +76,10 @@
               <span class="glyphicon glyphicon-chevron-right"></span>
               <span class="sr-only">Next</span>
             </a>
+
         </div>  
       </div>
-
+</center>
     </header>
 
 
